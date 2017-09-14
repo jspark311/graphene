@@ -75,6 +75,7 @@ export class Slot extends core.HandleObject {
      * initializes a token
      *
      * @param {string} pin the SO's initial PIN
+     * @param {string} The label for the token. May or may not be optional.
      * @returns {string}
      */
     initToken(pin: string, label = ''): string {
