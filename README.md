@@ -16,7 +16,7 @@ It has been tested with :
 - [Thales nShield Solo+](https://www.thales-esecurity.com/products-and-services/products-and-services/hardware-security-modules/general-purpose-hsms/nshield-solo)
 - [Safenet Luna HSMs](http://www.safenet-inc.com/)
 - [RuToken](http://www.rutoken.ru/)
-
+- [Nitrokey HSM](https://shop.nitrokey.com/shop/product/nitrokey-hsm-7)
 
 We have also created a basic [CLI](https://github.com/PeculiarVentures/graphene-cli) for interacting with PKCS#11 devices based on this library we call [graphene-cli](https://github.com/PeculiarVentures/graphene-cli).
 
